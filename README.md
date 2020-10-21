@@ -1,2 +1,2 @@
-# advanced_database
-Example files for advanced database systems design
+# web_programming_i
+Example files for Web Programming I, Fall 2020
